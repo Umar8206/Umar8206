@@ -1,37 +1,98 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Umar
-======================================================================================================================================
+👋 Hi, I’m Muhammad Umar
 
-Full-Stack Mobile Developer | React Native • Node.js • APIs
------------------------------------------------------------
+Full-Stack Mobile Developer
+React Native • Node.js • Scalable Backends
 
-👋 About Me
+👨‍💻 About Me
 
-I’m a Full-Stack Mobile Developer with around 3 years of hands-on experience building mobile apps and backend systems. I primarily work with React Native for cross-platform mobile development and Node.js / NestJS for scalable, maintainable backend services, using MongoDB and Redis for data storage and caching.
+I’m a Full-Stack Mobile Developer with around 3 years of experience building reliable, user-friendly mobile applications and backend systems.
 
-I’ve worked in both product-based and project-based environments, contributing across the full development lifecycle — from planning and architecture to implementation, deployment, and ongoing improvements. My work includes building REST APIs, integrating third-party services, handling real-time features, and managing production deployments.
+I work with startups, businesses, and teams to transform ideas into fully functional digital products. My core expertise is building cross-platform mobile apps using React Native and scalable backend systems using Node.js and NestJS, supported by MongoDB and Redis.
 
-I have experience working as a Team Lead, collaborating with developers, reviewing code, and coordinating deliveries, as well as working as a solo developer, owning projects end-to-end. Alongside full-time roles, I’ve also worked as a freelance developer, delivering custom solutions for clients across different domains.
+I’ve worked in product-based companies, project-based teams, and as a freelance developer, which has helped me adapt quickly to different business needs, timelines, and communication styles.
 
-Currently, I’m learning DevOps and Cloud technologies, focusing on improving CI/CD workflows, deployments, and application scalability.
+I’m comfortable leading teams, collaborating with designers and stakeholders, or working independently as a solo developer, owning projects end-to-end — from planning to deployment.
+
+Currently, I’m expanding my skill set in DevOps and Cloud, focusing on better deployments, automation, and scalability.
+
+💼 What I Can Help You With (For Clients & Employers)
+
+✔ Mobile App Development
+
+Build iOS & Android apps using a single codebase
+
+Clean UI, smooth performance, and maintainable code
+
+✔ Backend & API Development
+
+Secure and scalable REST APIs
+
+Authentication, roles, real-time features, integrations
+
+✔ Startup & Product Development
+
+MVP development
+
+Feature enhancements & refactoring
+
+Scaling existing applications
+
+✔ Deployment & Maintenance
+
+App deployment and backend hosting
+
+Performance improvements and bug fixing
+
+Ongoing support & improvements
+
+✔ Team & Project Support
+
+Team leadership & code reviews
+
+Working with existing teams or independently
+
+(I focus on writing clean, scalable code that saves time and money in the long run.)
 
 🛠 Tech Stack
 
-Mobile: React Native
+Mobile
 
-Backend: Node.js, NestJS
+React Native
 
-Database: MongoDB, Redis
+Backend
 
-Other: REST APIs, Deployments, Git, DevOps (Learning)
+Node.js, NestJS
 
-* 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [umerzubair879@gmail.com](mailto:umerzubair879@gmail.com)
-* 🧠  I'm currently learning DevOps & Cloud Engineering
+Database & Caching
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="Heroku" title="Heroku" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+MongoDB, Redis
 
-### Socials
+Other
 
-<p align="left"> <a href="https://www.github.com/Umar8206" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammadumar8206" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+REST APIs
+
+Deployments
+
+Git & GitHub
+
+DevOps & Cloud (Learning)
+
+📌 Quick Info
+
+🌍 Based in Pakistan
+
+✉️ Contact: umerzubair879@gmail.com
+
+🧠 Currently learning DevOps & Cloud Engineering
+
+🤝 Open to Full-time | Freelance | Remote work
+
+📊 GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Umar8206&show_icons=true&theme=transparent" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar8206&layout=compact&theme=transparent" height="150" /> </p>
+🧰 Tools & Technologies
+<p align="left"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" /> </p>
+🔗 Let’s Connect
+
+GitHub: https://github.com/Umar8206
+
+LinkedIn: https://www.linkedin.com/in/muhammadumar8206
