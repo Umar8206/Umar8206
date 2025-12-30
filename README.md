@@ -1,98 +1,89 @@
-👋 Hi, I’m Muhammad Umar
+# 👋 Hi, I’m Muhammad Umar
 
-Full-Stack Mobile Developer
-React Native • Node.js • Scalable Backends
+### Full-Stack Mobile Developer  
+**React Native • Node.js • Scalable Backends**
 
-👨‍💻 About Me
+---
 
-I’m a Full-Stack Mobile Developer with around 3 years of experience building reliable, user-friendly mobile applications and backend systems.
+## 👨‍💻 About Me
 
-I work with startups, businesses, and teams to transform ideas into fully functional digital products. My core expertise is building cross-platform mobile apps using React Native and scalable backend systems using Node.js and NestJS, supported by MongoDB and Redis.
+I’m a **Full-Stack Mobile Developer** with around **3 years of experience** building reliable, user-friendly **mobile applications and backend systems**.
 
-I’ve worked in product-based companies, project-based teams, and as a freelance developer, which has helped me adapt quickly to different business needs, timelines, and communication styles.
+I work with **startups, businesses, and teams** to transform ideas into fully functional digital products. My core expertise lies in building **cross-platform mobile apps** using **React Native** and **scalable backend systems** using **Node.js and NestJS**, supported by **MongoDB** and **Redis**.
 
-I’m comfortable leading teams, collaborating with designers and stakeholders, or working independently as a solo developer, owning projects end-to-end — from planning to deployment.
+I’ve worked in **product-based companies**, **project-based teams**, and as a **freelance developer**, which has helped me adapt quickly to different business needs, timelines, and communication styles.
 
-Currently, I’m expanding my skill set in DevOps and Cloud, focusing on better deployments, automation, and scalability.
+I’m comfortable **leading teams**, collaborating with designers and stakeholders, or working independently as a **solo developer**, owning projects end-to-end — from planning to deployment.
 
-💼 What I Can Help You With (For Clients & Employers)
+Currently, I’m expanding my skill set in **DevOps and Cloud**, focusing on better deployments, automation, and scalability.
 
-✔ Mobile App Development
+---
 
-Build iOS & Android apps using a single codebase
+## 💼 What I Can Help You With  
+*(For Clients & Employers)*
 
-Clean UI, smooth performance, and maintainable code
+### ✅ Mobile App Development
+- Build **iOS & Android apps** using a single codebase  
+- Clean UI, smooth performance, and maintainable code  
 
-✔ Backend & API Development
+### ✅ Backend & API Development
+- Secure and scalable **REST APIs**  
+- Authentication, roles, real-time features, integrations  
 
-Secure and scalable REST APIs
+### ✅ Startup & Product Development
+- MVP development  
+- Feature enhancements & refactoring  
+- Scaling existing applications  
 
-Authentication, roles, real-time features, integrations
+### ✅ Deployment & Maintenance
+- Backend deployment and hosting  
+- Performance improvements & bug fixing  
+- Ongoing support and improvements  
 
-✔ Startup & Product Development
+### ✅ Team & Project Support
+- Team leadership & code reviews  
+- Working with existing teams or independently  
 
-MVP development
+> I focus on writing **clean, scalable code** that saves time and cost in the long run.
 
-Feature enhancements & refactoring
+---
 
-Scaling existing applications
+## 🛠 Tech Stack
 
-✔ Deployment & Maintenance
+**Mobile**
+- React Native
 
-App deployment and backend hosting
+**Backend**
+- Node.js  
+- NestJS  
 
-Performance improvements and bug fixing
+**Database & Caching**
+- MongoDB  
+- Redis  
 
-Ongoing support & improvements
+**Other**
+- REST APIs  
+- Deployments  
+- Git & GitHub  
+- DevOps & Cloud (Learning)
 
-✔ Team & Project Support
+---
 
-Team leadership & code reviews
+## 📊 GitHub Stats
 
-Working with existing teams or independently
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umar8206&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar8206&layout=compact&theme=transparent)
 
-(I focus on writing clean, scalable code that saves time and money in the long run.)
+---
 
-🛠 Tech Stack
+## 📌 Quick Info
+- 🌍 Based in **Pakistan**
+- ✉️ Email: **umerzubair879@gmail.com**
+- 🧠 Learning **DevOps & Cloud Engineering**
+- 🤝 Open to **Full-time | Freelance | Remote**
 
-Mobile
+---
 
-React Native
-
-Backend
-
-Node.js, NestJS
-
-Database & Caching
-
-MongoDB, Redis
-
-Other
-
-REST APIs
-
-Deployments
-
-Git & GitHub
-
-DevOps & Cloud (Learning)
-
-📌 Quick Info
-
-🌍 Based in Pakistan
-
-✉️ Contact: umerzubair879@gmail.com
-
-🧠 Currently learning DevOps & Cloud Engineering
-
-🤝 Open to Full-time | Freelance | Remote work
-
-📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Umar8206&show_icons=true&theme=transparent" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar8206&layout=compact&theme=transparent" height="150" /> </p>
-🧰 Tools & Technologies
-<p align="left"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" /> </p>
-🔗 Let’s Connect
-
-GitHub: https://github.com/Umar8206
-
-LinkedIn: https://www.linkedin.com/in/muhammadumar8206
+## 🔗 Connect With Me
+- **GitHub:** https://github.com/Umar8206  
+- **LinkedIn:** https://www.linkedin.com/in/muhammadumar879
