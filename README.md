@@ -69,13 +69,6 @@ Currently, I’m expanding my skill set in **DevOps and Cloud**, focusing on bet
 
 ---
 
-## 📊 GitHub Stats
-
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umar8206&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar8206&layout=compact&theme=transparent)
-
----
-
 ## 📌 Quick Info
 - 🌍 Based in **Pakistan**
 - ✉️ Email: **umerzubair879@gmail.com**
